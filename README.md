@@ -1,3 +1,32 @@
+# Help the 4Geeks teachers to create random pairs with their students!
+
+### INPUT
+A list of students
+
+### OUTPUT 
+A list of pairs with those students
+
+
+### ITERATION 1: ONLY JS CODE
+Declare a list of students, and console.log the pairs
+
+CASE 1: if the number is even, all the pairs will be couples (2 students)
+CASE 2: if the number is odd, one pair will be formed by 3 students /!\
+
+### ITERATION 2: MAKE IT BEAUTIFUL
+Create a beautiful interface where we read the names and then display the pairs.
+
+One Example (it doesn't has to be like this, you can use your imagination!)
+
+![image](https://user-images.githubusercontent.com/66245428/146253093-0b586b7f-7e11-49ed-995b-24a8f62e1cb2.png)
+
+
+
+
+
+
+
+.
 # Hello World with Vanilla JS
 
 Start coding in 30 seconds by opening this template in gitpod:
